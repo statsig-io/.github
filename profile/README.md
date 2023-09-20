@@ -16,7 +16,7 @@ Statsig can work across any sample size (B2B or B2C); between any stack (fronten
  
 With Statsig, you can:
 
-* Control the rollout of feature launche
+* Control the rollout of feature launches
 * Measure the impact of every product update, no matter how small or large
 * Build a culture of data-driven decision making
 * Run 10x more product experiments with low-lift
